@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q_sharp", "Q_sharp.csproj", "{19FB1AE7-B2B8-4C78-9146-5BADB38F1B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranspilerSandbox", "..\TranspilerSandbox\TranspilerSandbox.csproj", "{5A5B39A8-A5F8-43FA-B60C-40F6034331EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19FB1AE7-B2B8-4C78-9146-5BADB38F1B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FB1AE7-B2B8-4C78-9146-5BADB38F1B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FB1AE7-B2B8-4C78-9146-5BADB38F1B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FB1AE7-B2B8-4C78-9146-5BADB38F1B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A5B39A8-A5F8-43FA-B60C-40F6034331EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5B39A8-A5F8-43FA-B60C-40F6034331EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5B39A8-A5F8-43FA-B60C-40F6034331EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5B39A8-A5F8-43FA-B60C-40F6034331EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5521830E-3558-447B-885F-2A6B552D6394}
+	EndGlobalSection
+EndGlobal
